@@ -1,2 +1,3 @@
 test site
 add 400 pages
+update index page to be less generic
